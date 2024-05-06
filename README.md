@@ -5,10 +5,10 @@ My name is Awesome Programmer. I'm new to GitHub, but eager to learn more!
 
 My Edit README Workflow:
 - [x] Create a branch
-- [ ] Edit the file
-- [ ] Commit the changes
-- [ ] Create a Pull Request
-- [ ] Request a Review
-- [ ] Make more changes
-- [ ] Get an approval
-- [ ] Merge the Pull request
+- [x] Edit the file
+- [x] Commit the changes
+- [x] Create a Pull Request
+- [x] Request a Review
+- [x] Make more changes
+- [x] Get an approval
+- [x] Merge the Pull request
